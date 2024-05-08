@@ -1,0 +1,65 @@
+.identifiant{
+    height: 25px;
+    font-size: x-large;
+    padding: 0%;
+    margin: 0%;
+}
+.bobo{
+    width: Cover;
+    color: white;
+    height: 50px;
+    font-size:smaller;
+    text-align: center;
+    margin-top: 0%;
+    padding-top: 0%;
+    text-decoration: solid;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.bro{
+    width: 1000px;
+    height: 500px;
+    background-color: #FFf5;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 .4rem .4rem #0005;
+    border-radius: 15px;
+    overflow: hidden;
+    text-decoration: center;
+    margin-top: 10px;
+    padding: 50px;
+}
+hr{
+    color:black ;
+}
+input{
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+body{
+    background: url(Airain-Type-20-Vert-Militaire-LE.002.jpg) no-repeat;
+    background-size: cover;
+    margin-left: 70px;
+}
+h2{
+    text-align: center;
+    color: rgb(202, 164, 12);
+}
+.Check{
+    width: 100px;
+    float: left;
+    display: flex;
+    padding: 0px;
+    margin: 0%;
+}
+.botton{
+    width: 120px;
+    height: 20px;
+    margin: 25px;
+    background-color:rgb(132, 74, 19) ;
+    border-radius: 4px;
+}
